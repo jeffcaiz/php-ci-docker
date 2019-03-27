@@ -26,4 +26,4 @@ Currenly only 7.3 is available.
 1. composer
 1. phpcs
 
-It's based on the great work of [https://github.com/lorisleiva/laravel-docker]
+It's based on the great work of https://github.com/lorisleiva/laravel-docker
